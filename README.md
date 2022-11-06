@@ -3,4 +3,6 @@ In this repository you will find all of the code that we used in our research on
 
 If there exists a function inside a file, I created a main so all you would need to do is run that file. I recommend using ipython to run all files since everything was tested using it. However, it should work when executing it normally without ipython.
 
+To invoke the PCA and NNMF methods, we utilized sklearn's modules so we also recommend reading their documentation before reading our code.
+
 To make things easy, I included duplicate data.py and dataset.mat files in the PCA and NNMF folder. I have a file where I plot the dataset that we have and that file is included in the PCA folder.
